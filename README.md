@@ -1,2 +1,4 @@
 # hello-word
-tutorial
+aprendiendo git hub jajajaj.
+
+que bien.
